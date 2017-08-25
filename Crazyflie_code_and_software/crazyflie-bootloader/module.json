@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "environmentReq": [
+    "arm-none-eabi"
+  ],
+  "artifacts": {
+    "file": [
+      {
+        "source": "cloader.bin",
+        "insertTag": true,
+        "destination": "currDir"
+      }
+    ]
+  }
+}

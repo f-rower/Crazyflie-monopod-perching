@@ -1,0 +1,14 @@
+
+^bin/dep/all
+bin/*
+.cproject
+.project
+.settings/*
+*~
+*.o
+*.elf
+*.d
+*.bin
+*.hex
+*.map
+config.mk
