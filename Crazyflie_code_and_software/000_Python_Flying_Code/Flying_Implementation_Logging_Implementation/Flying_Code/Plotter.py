@@ -1,3 +1,5 @@
+#Code for reading and plotting data from a file in real time
+
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from matplotlib import style
